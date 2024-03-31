@@ -3,7 +3,7 @@ let saved_config = JSON.parse(localStorage.getItem("CONFIG"));
 const default_config = {
   overrideStorage: true,
   temperature: {
-    location: "London",
+    location: "Sukasari",
     scale: "C",
   },
   clock: {
@@ -184,7 +184,7 @@ const default_config = {
     },
     {
       name: "chi ll",
-      background_url: "src/img/banners/cbg-10.gif",
+      background_url: "src/img/banners/cbg-2.gif",
       categories: [
         {
           name: "social medias",
