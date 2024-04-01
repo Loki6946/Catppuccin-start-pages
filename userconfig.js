@@ -64,8 +64,8 @@ const default_config = {
             },
           ],
         },
-        {
-          /* name: "media",
+        /*{
+          name: "media",
           links: [
             {
               name: "уп",
@@ -98,10 +98,10 @@ const default_config = {
               icon_color: "#cba6f7",
             },
           ],
-        },
+        }, */
       ],
     },
-    { */
+    {
       name: "dev",
       background_url: "src/img/banners/cbg-8.gif",
       categories: [
