@@ -11,7 +11,7 @@ const default_config = {
     iconColor: "#f38ba8",
   },
   disabled: [],
-  fastlink: "https://app.raindrop.io",
+  fastlink: "https://google.com",
   openLastVisitedTab: true,
   tabs: [
     {
@@ -65,7 +65,7 @@ const default_config = {
           ],
         },
         {
-          name: "media",
+          /* name: "media",
           links: [
             {
               name: "уп",
@@ -101,7 +101,7 @@ const default_config = {
         },
       ],
     },
-    {
+    { */
       name: "dev",
       background_url: "src/img/banners/cbg-8.gif",
       categories: [
@@ -189,12 +189,12 @@ const default_config = {
         {
           name: "social medias",
           links: [
-            {
+            /*{
               name: "telegram",
               url: "https://web.telegram.org",
               icon: "brand-telegram",
               icon_color: "#a6e3a1",
-            },
+            },*/
             {
               name: "facebook",
               url: "https://www.facebook.com",
