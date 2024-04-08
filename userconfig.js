@@ -209,7 +209,7 @@ const default_config = {
             },
           ],
         },
-        {
+        /*{
           name: "games",
           links: [
             {
@@ -237,7 +237,7 @@ const default_config = {
               icon_color: "#89b4fa",
             },
           ],
-        },
+        },*/
         {
           name: "video",
           links: [
