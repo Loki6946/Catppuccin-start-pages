@@ -1,5 +1,5 @@
 body {
-  background-color: var(--bg-light);
+  background-color: #c5c8c9;
   font-family: "JetBrains Mono", monospace;
   height: 100%;
   display: table-cell;
@@ -41,6 +41,10 @@ span {
   background-color: var(--acc2);
 }
 
+.blank {
+  background-color: var(--fg);
+}
+
 #clock {
   float: left;
   pointer-events: none;
@@ -66,7 +70,7 @@ a {
 
 a:focus,
 a:hover {
-  font-weight: bold;
+  text-decoration: underline;
 }
 
 th {
@@ -88,7 +92,7 @@ th {
 #terminal-content {
   background-color: var(--bg);
   border-radius: 0px 0px 20px 20px;
-  padding: 100px;
+  padding: 120px 150px 150px 150px;
 }
 
 input,
